@@ -1,0 +1,6 @@
+{
+  "name": "FinanceFlow - Internal Accounting & Finance Management",
+  "description": "Internal accounting and finance management tool for company income, expenses, invoices, accounts receivable & payable, P&L, balance sheet, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
